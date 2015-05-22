@@ -1,0 +1,11 @@
+{
+    "extensions": [
+        ".c", ".h", ".cpp", ".hpp"
+    ],
+    "clang_path": "C:\\clang\\",
+    "options": [
+        "-std=c++11", "-fms-extensions", "-fcxx-exceptions"
+    ],
+    "include_paths": [
+    ]
+}
